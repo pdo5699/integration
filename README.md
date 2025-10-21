@@ -1,2 +1,2 @@
-# integration
-Tools for numerical integration in Python.
+# ODEscape
+Tools for astrodynamical propagation in Python.
